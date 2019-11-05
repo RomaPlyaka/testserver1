@@ -1,0 +1,23 @@
+{
+  "name": "testserver1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomaPlyaka/testserver1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomaPlyaka/testserver1/issues"
+  },
+  "homepage": "https://github.com/RomaPlyaka/testserver1#readme",
+  "dependencies": {
+    "expres": "0.0.5"
+  }
+}

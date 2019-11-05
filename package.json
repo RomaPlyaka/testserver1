@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/RomaPlyaka/testserver1#readme",
   "dependencies": {
-    "expres": "0.0.5"
+    "expres": "0.0.5",
+    "express": "^4.17.1",
+    "nodejs": "0.0.0"
   }
 }
